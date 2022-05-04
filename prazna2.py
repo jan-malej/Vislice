@@ -1,0 +1,2 @@
+class Prazenrazred:
+    pass
