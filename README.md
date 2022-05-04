@@ -1,7 +1,7 @@
 # Vislice
 
 ## Kaj delamo?
- -Igramo se
- -Zmagamo
+ - Igramo se
+ - Zmagamo
 ### Sprememba 2
 To sem napisal online
