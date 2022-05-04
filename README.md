@@ -1,2 +1,5 @@
 # Vislice
-Igramo se
+
+## Kaj delamo?
+ -Igramo se
+ -Zmagamo
