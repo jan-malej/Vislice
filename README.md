@@ -5,3 +5,5 @@
  - Zmagamo
 ### Sprememba 2
 To sem napisal online
+## Dejanski avtorji
+JAZ
