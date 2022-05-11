@@ -1,4 +1,3 @@
-i = 0
-while True:
-    yield i
-    i += 1  
+STEVILO_DOVOLJENIH_NAPAK = 10
+PRAVILNA_CRKA, PONOVLJENA_CRKA, NAPACNA_CRKA = '+','o','-'
+ZMAGA, PORAZ = 'W', 'X'
