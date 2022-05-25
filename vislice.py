@@ -3,7 +3,7 @@ import model
 
 TIPKOVNICA = [
     "QWERTZUIOP",
-    "ASDFGHJKLČŽ",
+    "ASDFGHJKLČŠŽ",
     "YXCVBNM"
 ]
 
